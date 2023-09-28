@@ -1,4 +1,4 @@
-
+#Kanyi Mwenda sct211-0012/2022
 print("Welcome User to Kanyi's Calculator!\n")
 print("press q then enter to quit")
 while True:
